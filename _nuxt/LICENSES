@@ -1,3 +1,52 @@
+/*!
+   * deep-rename-keys <https://github.com/jonschlinkert/deep-rename-keys>
+   *
+   * Copyright (c) 2015 Jon Schlinkert, contributors.
+   * Licensed under the MIT license.
+   */
+
+/*!
+   * has-value <https://github.com/jonschlinkert/has-value>
+   *
+   * Copyright (c) 2014-2016, Jon Schlinkert.
+   * Licensed under the MIT License.
+   */
+
+/*!
+   * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
+   *
+   * Copyright (c) 2014-2017, Jon Schlinkert.
+   * Released under the MIT License.
+   */
+
+/*!
+   * isobject <https://github.com/jonschlinkert/isobject>
+   *
+   * Copyright (c) 2014-2017, Jon Schlinkert.
+   * Released under the MIT License.
+   */
+
+/*!
+   * unset-value <https://github.com/jonschlinkert/unset-value>
+   *
+   * Copyright (c) 2015, 2017, Jon Schlinkert.
+   * Released under the MIT License.
+   */
+
+
+/*!
+  * vue-router v3.5.2
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+
 /*
 object-assign
 (c) Sindre Sorhus
@@ -63,53 +112,4 @@ object-assign
  * @author Chen, Yi-Cyuan [emn178@gmail.com]
  * @copyright Chen, Yi-Cyuan 2015-2018
  * @license MIT
- */
-
-
-/*!
-   * deep-rename-keys <https://github.com/jonschlinkert/deep-rename-keys>
-   *
-   * Copyright (c) 2015 Jon Schlinkert, contributors.
-   * Licensed under the MIT license.
-   */
-
-/*!
-   * has-value <https://github.com/jonschlinkert/has-value>
-   *
-   * Copyright (c) 2014-2016, Jon Schlinkert.
-   * Licensed under the MIT License.
-   */
-
-/*!
-   * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
-   *
-   * Copyright (c) 2014-2017, Jon Schlinkert.
-   * Released under the MIT License.
-   */
-
-/*!
-   * isobject <https://github.com/jonschlinkert/isobject>
-   *
-   * Copyright (c) 2014-2017, Jon Schlinkert.
-   * Released under the MIT License.
-   */
-
-/*!
-   * unset-value <https://github.com/jonschlinkert/unset-value>
-   *
-   * Copyright (c) 2015, 2017, Jon Schlinkert.
-   * Released under the MIT License.
-   */
-
-
-/*!
-  * vue-router v3.5.2
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
  */
